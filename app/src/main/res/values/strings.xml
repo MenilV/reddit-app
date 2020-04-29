@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">RedditApp</string>
+  <string name="something_went_wrong">Something went wrong</string>
+  <string name="service_is_temporarily_unavailable">Service is temporarily unavailable please try again later</string>
+  <string name="unknown_issue">Unknown issue</string>
+  <string name="no_internet_connection">No Internet connection available</string>
+  <string name="wrong_response">Wrong response</string>
+</resources>
