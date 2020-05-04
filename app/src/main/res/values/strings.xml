@@ -6,4 +6,8 @@
   <string name="unknown_issue">Unknown issue</string>
   <string name="no_internet_connection">No Internet connection available</string>
   <string name="wrong_response">Wrong response</string>
+  <string name="username_template">Posted by: /u/%s</string>
+  <string name="subreddit_template">Posted in: /r/%s</string>
+    <string name="loading">I\'m loading give me a sec...</string>
+
 </resources>
